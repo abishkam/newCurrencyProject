@@ -1,0 +1,1 @@
+insert into men values (1, 'abishka', 'abishka','abishka')
